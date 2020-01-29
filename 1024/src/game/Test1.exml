@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Test1Skin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16fe5fd9eb6" ></w:Config>
+	<e:Group id="group_main" width="750" height="1334" x="0" y="0">
+		<e:Rect id="rect_main1" width="750" height="1334" x="0" y="0" fillColor="0xFFFFFF"/>
+		<e:Label text="test1" x="140" y="76" anchorOffsetX="0" width="255.82" anchorOffsetY="0" height="90.61" textColor="0x000000" size="36"/>
+	</e:Group>
+</e:Skin>
