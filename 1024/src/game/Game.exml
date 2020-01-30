@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Game" width="750" height="1334" xmlns:e="http://ns.egret.com/eui">
+	<e:Group id="group_main" width="750" height="1334" x="0" y="0">
+		<e:Rect id="rect_main0" width="750" height="1334" x="0" y="0" fillColor="0xFFFFFF"/>
+		<e:Label text="1024" x="139" y="76" anchorOffsetX="0" width="255.82" anchorOffsetY="0" height="90.61" textColor="0x000000" size="36"/>
+	</e:Group>
+</e:Skin>

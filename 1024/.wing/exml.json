@@ -1,0 +1,27 @@
+{
+    "16fe5a55ada": {
+        "path": "game/GameIndex.ts",
+        "class": "GameIndex",
+        "parentPath": ""
+    },
+    "16fe5f2c3c6": {
+        "path": "game/Game.ts",
+        "class": "Game",
+        "parentPath": ""
+    },
+    "16fe5f325e6": {
+        "path": "game/Game.ts",
+        "class": "Game",
+        "parentPath": ""
+    },
+    "16fe5fd14ed": {
+        "path": "game/Test.ts",
+        "class": "Test",
+        "parentPath": ""
+    },
+    "16fe5fd9eb6": {
+        "path": "game/Test1.ts",
+        "class": "Test1",
+        "parentPath": ""
+    }
+}
